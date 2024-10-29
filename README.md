@@ -1,4 +1,4 @@
-# EvoGym Fitness Website
+# EvoGym Fitness Website [Educational]
 
 EvoGym is a fitness website that has been designed and developed using a comprehensive tech stack including HTML, CSS, Tailwind, TypeScript, Framer-motion, and React. This combination of technologies allowed me to create a responsive, visually appealing, and highly functional website that caters to the needs of modern fitness enthusiasts.
 
